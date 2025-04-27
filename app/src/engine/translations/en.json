@@ -1,0 +1,16 @@
+{
+    "duration-header": "Spent here",
+    "expand-button-label": "More",
+    "shrink-button-label": "Less",
+    "sort-label": "Sort",
+    "option-nameascending": "Website: Ascending",
+    "option-namedescending": "Website: Descending",
+    "option-timeascending": "Time: Ascending",
+    "option-timedescending": "Time: Descending",
+    "option-none": "None",
+    "details-button-label": "Details",
+    "details-view-back-button-label": "Go back",
+    "details-view-last-visited-label": "Last visit",
+    "details-view-number-of-visits": "Total visits",
+    "details-view-average-daily-time": "Average daily"
+}

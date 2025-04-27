@@ -1,0 +1,16 @@
+{
+    "duration-header": "Dépensé ici",
+    "expand-button-label": "Mieux",
+    "shrink-button-label": "Moins",
+    "sort-label": "Trier",
+    "option-nameascending": "Site Web: Ascendant",
+    "option-namedescending": "Site Web: Décroissant",
+    "option-timeascending": "Heure: Croissant",
+    "option-timedescending": "Heure: Décroissante",
+    "option-none": "Aucun",
+    "details-button-label": "Détails",
+    "details-view-back-button-label": "Retourner",
+    "details-view-last-visited-label": "Derniere visite",
+    "details-view-number-of-visits": "Visites totales",
+    "details-view-average-daily-time": "Moyenne quotidienne"
+}
